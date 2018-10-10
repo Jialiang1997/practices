@@ -1,0 +1,4 @@
+./broker.py -t 3 -T 2 "tcp://*:4161" "tcp://*:4162" "tcp://*:4163"
+./testworker.py tcp://localhost:4162 tcp://localhost:4163 0.1
+./testworker.py tcp://localhost:4162 tcp://localhost:4163 0.1
+./testclient.py tcp://localhost:4161
