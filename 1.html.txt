@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<HTML>
+	<head>
+		<title>GW CS Senior Design FILL-IN-YOUR-NAME</title>
+		<style>
+		body {
+	background-color: #005A81;
+}
+h1 {
+	margin-left: 80px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+h2 {
+	font-family: "Cambria";
+	margin-left: 30px;
+}
+p {
+	font-family: "Cambria";
+}
+a:hover {
+    color: #2FB8F2;
+}
+a {
+    color: #CBB18B;
+    text-decoration: none;
+}
+#outer_div {
+	margin-right: 80px;
+	margin-left: 80px;
+	background: white;
+	border-radius: 8px;
+}
+#middle_div {
+	padding: 30px;
+}
+#header_div {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 30px;
+	margin-left: 80px;
+	color: white;
+}
+#inside_div {
+	margin-left: 30px;
+}
+.subheader_div img {
+	margin-left: 50px;
+	position: relative;
+	float: right;
+}
+		</style>
+	</head>
+	<body>
+		<div id="header_div">
+			<p>
+			<a href="https://capstone.cs.gwu.edu/">GW CS Senior Design</a> 2019
+			</p>
+		</div>
+		<div id="outer_div">
+			<div id="middle_div">
+				<div class="subheader_div">
+					<h2>Jialiang Liang & Jack Kerwin: Thermal Imaging and Computer Vision Project</h2>
+					<img src="images/headshot.jpg" width="150">
+				</div>
+				<div id="inside_div"> 
+					<p>
+						<strong>PROJECT OVERVIEW:</strong>
+						<p>A thermal imaging sensor combined with a camera provides a powerful combined sensor for many applications. One of these is to image human in work environments to develop accurate heat maps and to use those to determine the body's heat efficiency and needs. This project will use an existing sensor/camera set up to sense an athlete's heat map (while on a treadmill, for example), and then to use that to direct approiate cooling jets for optimal performance. Cn be used to track the subject's long term effciency to help train, and provide feedback.</p>
+					</p> 
+					<p>
+						<strong>Bio:</strong>
+						<p>Jack Kerwin:</p>
+						<p>Hi, my name is Jack Kerwin.  I am a senior from Greenwich, Connecticut majoring in computer science with a concentration in Cybersecurity.  I play on the Men&rsquo;s Water Polo team and have been playing the sport for the past 14 years!  When I&rsquo;m not playing water polo or studying, you can find me watching movies, going to art galleries or listening to music.</p>
+						<p>Jialiang Liang:</p>
+						<p>Hello everyone! I am Jialiang Liang. I am a senior Computer Science student from Beijing, China. Besides coding, I also like playing sports. I am good at swimming and playing basketball.</p>					
+					</p>
+					<p>
+						<strong>Documentation:</strong> 							
+						<ul>
+							<a href="https://docs.google.com/document/d/1UosNESr2OS8Wex-x_bqZdkbfCxNekUQc02B07LqQFl8/edit?usp=sharing"> Writing#1 </a ><br/>
+							<a href="https://docs.google.com/document/d/1_rs5rsWwH510OLwfv9kyKL3vzYmwvM-YJFxi4-LfPvI/edit?usp=sharing"> Writing#2 - Elevator Pitch </a >
+						</ul>
+
+						<!--
+						<iframe 
+							width="420" 
+							height="315"
+							src="FILL-IN YOUR YOUTUBE LINK at end of year and uncomment" 
+							frameborder="0" 
+							allowfullscreen>
+						</iframe>
+						!-->
+					</p>
+				</div>
+			</div>
+		</div>
+	<body>
+</HTML>
